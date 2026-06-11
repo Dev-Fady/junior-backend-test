@@ -1,0 +1,13 @@
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\junior-backend-test.Domain.GeneratedMSBuildEditorConfig.editorconfig
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\junior-backend-test.Domain.AssemblyInfoInputs.cache
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\junior-backend-test.Domain.AssemblyInfo.cs
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\junior-backend-test.Domain.csproj.CoreCompileInputs.cache
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\junior-backend-test.Domain.sourcelink.json
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\junior-backend-test.Domain.csproj.AssemblyReference.cache
+N:\junior-backend-test\junior-backend-test.Domain\bin\Debug\net8.0\junior-backend-test.Domain.deps.json
+N:\junior-backend-test\junior-backend-test.Domain\bin\Debug\net8.0\junior-backend-test.Domain.dll
+N:\junior-backend-test\junior-backend-test.Domain\bin\Debug\net8.0\junior-backend-test.Domain.pdb
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\junior-backend-test.Domain.dll
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\refint\junior-backend-test.Domain.dll
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\junior-backend-test.Domain.pdb
+N:\junior-backend-test\junior-backend-test.Domain\obj\Debug\net8.0\ref\junior-backend-test.Domain.dll

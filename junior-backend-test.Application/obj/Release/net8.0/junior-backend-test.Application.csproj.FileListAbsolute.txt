@@ -1,0 +1,16 @@
+N:\junior-backend-test\junior-backend-test.Application\bin\Release\net8.0\junior-backend-test.Application.deps.json
+N:\junior-backend-test\junior-backend-test.Application\bin\Release\net8.0\junior-backend-test.Application.dll
+N:\junior-backend-test\junior-backend-test.Application\bin\Release\net8.0\junior-backend-test.Application.pdb
+N:\junior-backend-test\junior-backend-test.Application\bin\Release\net8.0\junior-backend-test.Domain.dll
+N:\junior-backend-test\junior-backend-test.Application\bin\Release\net8.0\junior-backend-test.Domain.pdb
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-backend-test.Application.csproj.AssemblyReference.cache
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-backend-test.Application.GeneratedMSBuildEditorConfig.editorconfig
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-backend-test.Application.AssemblyInfoInputs.cache
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-backend-test.Application.AssemblyInfo.cs
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-backend-test.Application.csproj.CoreCompileInputs.cache
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-backend-test.Application.sourcelink.json
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-b.4D24DBA7.Up2Date
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-backend-test.Application.dll
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\refint\junior-backend-test.Application.dll
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\junior-backend-test.Application.pdb
+N:\junior-backend-test\junior-backend-test.Application\obj\Release\net8.0\ref\junior-backend-test.Application.dll
